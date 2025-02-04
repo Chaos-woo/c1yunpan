@@ -38,3 +38,8 @@
 # 运行
 运行 `app.py` 脚本文件
 
+# 效果
+![首页](https://github.com/Chaos-woo/c1yunpan/blob/main/home.png)
+![文件上传](https://github.com/Chaos-woo/c1yunpan/blob/main/upload_file.png)
+![文件列表](https://github.com/Chaos-woo/c1yunpan/blob/main/file_list.png)
+
